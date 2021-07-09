@@ -45,11 +45,15 @@ Here's my linkedin profile https://www.linkedin.com/in/merakmarey/ if you want t
 But if like this project and want to support it, here's how. Buy me a beer!..I mean..I need this to buy hardware and do further testing...
 
 XCH : xch109mlsnkddjea68m5vxpzerf64cav4prhvrkf0hqxz9wfxhpcluasgjfr6r
+
 ETH : 0xCd7B9801e63627D12D6abA45dC2688B25E3A2e54
+
 BTC : bc1q4fvt2lxsnsdg36rqced65s5jwntvcph7nutlk7
 
 Tether USD : 0xCd7B9801e63627D12D6abA45dC2688B25E3A2e54
+
 XRP : rEW6Y1cW3vi2fG4gLqxLBwxnSktFndRTL9
+
 Dogecoin : DS3qkyuCHaz8eTdvpiw9Tn6Q4XojJGSaFL
 
 
