@@ -1,5 +1,5 @@
 # madFurry
-madFurry - a madMax plotter GUI (v1.0 for madMax plotter v 1.1.7)
+madFurry - a madMax plotter GUI (v0.1 for madMax plotter v 1.1.7)
 
 madFurry is a Windows Forms application oriented to provide a more usable user interface for the madMax chia plotter.
 
@@ -28,6 +28,10 @@ If checked, the plot will be moved with an internal enhanced file feature, other
 - Extra improvements
 
 There are some tweaks and hacks to improve stability AND performance of the plotter process AND the files I/O. Also, since each plot is created by a single process and after that the process and its resources get recycled, there is no risk for any issues with long running processes.
+
+- Why is this better than any other plotter manager based on powershell or CLI's?
+
+As I said, the hacks. There is a lot PowerShell simply cannot do, and even the madMax plotter don't have. The Ultra Fast Copy function is around 20% faster than the madMax file copy. Do some benchmarking, plot using cmd line and then plot using madFurry, let me know your results on my discord @ https://discord.gg/V2x9MSpCFe
 
 - Future development.
 
