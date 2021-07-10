@@ -1,5 +1,5 @@
 # madFurry
-madFurry - a madMax plotter GUI (v0.1 for madMax plotter v 1.1.7)
+madFurry - a madMax plotter GUI/manager for madMax plotter.
 
 madFurry is a Windows Forms application oriented to provide a more usable user interface for the madMax chia plotter.
 
