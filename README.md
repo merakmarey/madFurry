@@ -46,7 +46,7 @@ I am, like any other human being, a little selfish, so I'll keep the source code
 YOU SHOULD'NT. Not mine or anyone. ALWAYS take precautions. See https://www.youtube.com/watch?v=n0P9FO1DafM for a better understanding and best practices to keep you chia or any other crypo assests secured. That being said, I am NOT gonna steal ANYTHING from you. I have been a software engineer for many many years and I prefer to make my money working.
 Here's my linkedin profile https://www.linkedin.com/in/merakmarey/ if you want to insult me. :)
 
-But if like this project and want to support it, here's how. Buy me a beer!..I mean..I need this to buy hardware and do further testing...
+But if you like this project and want to support it, here's how. Buy me a beer!..I mean..I need this to buy hardware and do further testing...
 
 XCH : xch109mlsnkddjea68m5vxpzerf64cav4prhvrkf0hqxz9wfxhpcluasgjfr6r
 
