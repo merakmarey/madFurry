@@ -5,6 +5,8 @@ For download go to https://github.com/merakmarey/madFurry/releases/
 
 madFurry is a Windows Forms application oriented to provide a more usable user interface for the madMax chia plotter.
 
+![image](https://user-images.githubusercontent.com/8477219/126082057-6f7b5939-320c-46cd-a78b-6da885d59b4c.png)
+
 Requirements:
 
 madFurry is a .Net Core application, therefore needs the .Net Core framework installed.
