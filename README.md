@@ -5,6 +5,14 @@ For download go to https://github.com/merakmarey/madFurry/releases/
 
 madFurry is a Windows Forms application oriented to provide a more usable user interface for the madMax chia plotter.
 
+Requirements:
+
+madFurry is a .Net Core application, therefore needs the .Net Core framework installed.
+
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-3.1.16-windows-x64-installer
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.16-windows-x64-installer
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-aspnetcore-3.1.16-windows-hosting-bundle-installer
+
 Features
 
 - System information and suggestions for plotting.
@@ -13,7 +21,7 @@ Along with the info/status about the system available resources, suggestions wil
 
 - Multiple final destinations.
 
-You can add multiple final destinations, madFurry will alternate the final destination for each plotting process to distribuite the competed plots among all the destinations on the list.
+You can add multiple final destinations, madFurry will alternate the final destination for each plotting process to distribuite the completed plots among all the destinations on the list.
 
 - Continuos mode
 
@@ -25,7 +33,7 @@ If checked, after plotting is completed, the task will conclude (or restart, if 
 
 - Use internal Ultra Fast Copy function.
 
-If checked, the plot will be moved with an internal enhanced file feature, otherwise a regular Windows copy will move the file.
+If checked, the plot will be moved with an internal enhanced file copy feature, otherwise a regular Windows copy will move the file.
 
 - Extra improvements
 
@@ -37,7 +45,7 @@ As I said, the hacks. There is a lot PowerShell simply cannot do, and even the m
 
 - Future development.
 
-Logging, statistics, configuration files, auto-restarts, alerts via text msg/email, a more intelligent plot distribuition system, and a secret plan regarding RAM plotting. A Linux version maybe?
+Logging, statistics, configuration files, auto-restarts, alerts via text msg/email, a more intelligent plot distribuition system, and a secret plan regarding RAM plotting. A Linux/MacOs version maybe?
 
 - Why not publishing the source code?
 
