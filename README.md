@@ -5,7 +5,7 @@ For download go to https://github.com/merakmarey/madFurry/releases/
 
 madFurry is a Windows Forms application oriented to provide a more usable user interface for the madMax chia plotter.
 
-![image](https://user-images.githubusercontent.com/8477219/126082057-6f7b5939-320c-46cd-a78b-6da885d59b4c.png)
+![image](https://user-images.githubusercontent.com/8477219/126425622-30b9974f-a43b-4937-9af7-f8c626cfc22b.png)
 
 Requirements:
 
@@ -23,7 +23,7 @@ Along with the info/status about the system available resources, suggestions wil
 
 - Multiple final destinations.
 
-You can add multiple final destinations, madFurry will alternate the final destination for each plotting process to distribuite the completed plots among all the destinations on the list.
+You can add multiple final destinations, madFurry will alternate the final destination for each plotting process to distribuite the completed plots among all the destinations on the list. Choose distribuition strategy according to your need, between distribuiting the completed plots evenly among all final destinations or to fill it up one by one, all depending on freespace availability.
 
 - Continuos mode
 
